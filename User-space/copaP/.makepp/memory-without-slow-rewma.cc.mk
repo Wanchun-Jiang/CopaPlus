@@ -1,0 +1,6 @@
+C_MD5_SUM=rvW9uj2YaRYMwzyopc0SJw
+INCLUDES=memory-without-slow-rewma.hh
+SYSTEM_INCLUDES=
+LIBS=
+SIGNATURE=1659493678,3323
+END=

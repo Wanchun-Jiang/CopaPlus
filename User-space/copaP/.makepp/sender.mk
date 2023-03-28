@@ -1,0 +1,15 @@
+SIGNATURE=1679544508,3954608
+DEP_SIGS=1679544488,7966241679544489,1614961679544490,4437441575469541,10474881679544491,6420961679544491,2043201679544493,12741281679544496,1134081679544497,3238081679544499,6072161679544499,1289281679544508,26667361679544499,13121679544500,1884641679544501,6145441679544503,1445816
+ARCH=x86_64-linux-gnu-thread-multi
+COMMAND=g++ random.o memory.o memoryrange.o rat.o whisker.o whiskertree.o udp-socket.o traffic-generator.o remycc.o markoviancc.o estimators.o rtt-window.o ADC.o sender.o protobufs-default/dna.pb.o -o sender -ljemalloc -lm -pthread -lprotobuf -lpthread -ljemalloc -lfftw3
+INCLUDE_SFXS=lib.la.so.sa.a.sl
+SIG_METHOD_NAME=C
+SIG_METHOD_IMPLICIT=1
+SORTED_DEPS=ADC.oprotobufs-default/dna.pb.oestimators.o/usr/bin/g++markoviancc.omemory.omemoryrange.orandom.orat.oremycc.ortt-window.osender.otraffic-generator.oudp-socket.owhisker.owhiskertree.o
+INCLUDE_PATHS=lib/usr/local/lib/usr/lib/libsys/usr/local/include/usr/includeuser/usr/local/include/usr/include
+META_DEPS=/usr/bin/g++
+CWD=.
+IMPLICIT_TARGETS=sender
+BUILD_SIGNATURE=1679544508,3954608
+IMPLICIT_DEPS=ADC.oestimators.omarkoviancc.omemory.omemoryrange.oprotobufs-default/dna.pb.orandom.orat.oremycc.ortt-window.osender.otraffic-generator.oudp-socket.owhisker.owhiskertree.oliblibfftw3libjemalloclibmlibprotobuflibpthread
+END=

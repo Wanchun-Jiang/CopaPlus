@@ -1,0 +1,6 @@
+C_MD5_SUM=G+BBMVBSWa4l58kf3MKKOA
+INCLUDES=markoviancc.hh
+SYSTEM_INCLUDES=cassert cmath iomanip iostream limits
+LIBS=
+SIGNATURE=1659493668,13841
+END=

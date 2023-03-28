@@ -1,0 +1,6 @@
+INCLUDES=random.hh
+C_MD5_SUM=zfwSZHzPr14BfGTZ1hhKRw
+SYSTEM_INCLUDES=chrono ctime sys/types.h unistd.h
+LIBS=
+SIGNATURE=1649409826,544
+END=

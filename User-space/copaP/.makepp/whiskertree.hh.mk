@@ -1,0 +1,6 @@
+SYSTEM_INCLUDES=array
+INCLUDES=dna.pb.h memoryrange.hh whisker.hh
+C_MD5_SUM=567N5CeKEnFc16MoWtqsgg
+SIGNATURE=1659493692,1154
+LIBS=
+END=

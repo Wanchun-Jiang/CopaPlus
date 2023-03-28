@@ -1,0 +1,15 @@
+INCLUDE_SFXS=lib.la.so.sa.a.sl
+IMPLICIT_TARGETS=receiver
+IMPLICIT_DEPS=receiver.oudp-socket.oliblibjemalloclibmlibprotobuflibpthread
+SIG_METHOD_NAME=C
+INCLUDE_PATHS=lib/usr/local/lib/usr/lib/libsys/usr/local/include/usr/includeuser/usr/local/include/usr/include
+DEP_SIGS=1575469541,10474881679544533,1935761679544532,188472
+CWD=.
+COMMAND=g++ receiver.o udp-socket.o -o receiver -ljemalloc -lm -pthread -lprotobuf -lpthread -ljemalloc
+SORTED_DEPS=/usr/bin/g++receiver.oudp-socket.o
+BUILD_SIGNATURE=1679544533,190880
+SIGNATURE=1679544533,190880
+META_DEPS=/usr/bin/g++
+ARCH=x86_64-linux-gnu-thread-multi
+SIG_METHOD_IMPLICIT=1
+END=

@@ -1,0 +1,15 @@
+DEP_SIGS=1522400922,404641522400922,118191522400922,569611522400922,84791522400922,81420jm31D6Flc8O0nd4u6VbLBQM904BeCI3S6sppSQJfFcRA1522400922,679281575469541,10474881522400922,323491522400922,50111522400922,529261522400922,61451522400922,61481522400922,125591522400922,35311522400922,878601522400922,119381522400922,138271522400922,37304
+IMPLICIT_DEPS=
+SIG_METHOD_IMPLICIT=1
+INCLUDE_PATHS=sys.../usr/local/include/usr/includeuser.../usr/local/include/usr/include
+ARCH=x86_64-linux-gnu-thread-multi
+CWD=..
+COMMAND=g++ -I.. -I. -O2 -fPIC -c protobufs-default/dna.pb.cc -o protobufs-default/dna.pb.o
+INCLUDE_SFXS=
+BUILD_SIGNATURE=1649426344,161496
+SIGNATURE=1649426344,161496
+SORTED_DEPS=/usr/include/google/protobuf/arena.h/usr/include/google/protobuf/arenastring.h/usr/include/google/protobuf/io/coded_stream.h/usr/include/google/protobuf/stubs/common.h/usr/include/google/protobuf/descriptor.hprotobufs-default/dna.pb.ccprotobufs-default/dna.pb.h/usr/include/google/protobuf/extension_set.h/usr/bin/g++/usr/include/google/protobuf/generated_message_reflection.h/usr/include/google/protobuf/generated_message_util.h/usr/include/google/protobuf/message.h/usr/include/google/protobuf/metadata.h/usr/include/google/protobuf/stubs/once.h/usr/include/google/protobuf/stubs/port.h/usr/include/google/protobuf/reflection_ops.h/usr/include/google/protobuf/repeated_field.h/usr/include/google/protobuf/unknown_field_set.h/usr/include/google/protobuf/wire_format.h/usr/include/google/protobuf/wire_format_lite_inl.h
+IMPLICIT_TARGETS=protobufs-default/dna.pb.o
+META_DEPS=/usr/bin/g++protobufs-default/dna.pb.ccsysalgorithmgoogle/protobuf/arena.hgoogle/protobuf/arenastring.hgoogle/protobuf/descriptor.hgoogle/protobuf/extension_set.hgoogle/protobuf/generated_message_reflection.hgoogle/protobuf/generated_message_util.hgoogle/protobuf/io/coded_stream.hgoogle/protobuf/message.hgoogle/protobuf/metadata.hgoogle/protobuf/reflection_ops.hgoogle/protobuf/repeated_field.hgoogle/protobuf/stubs/common.hgoogle/protobuf/stubs/once.hgoogle/protobuf/stubs/port.hgoogle/protobuf/unknown_field_set.hgoogle/protobuf/wire_format.hgoogle/protobuf/wire_format_lite_inl.hstringuserprotobufs-default/protobufs-default/dna.pb.h
+SIG_METHOD_NAME=C
+END=

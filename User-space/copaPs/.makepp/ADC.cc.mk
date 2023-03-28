@@ -1,0 +1,6 @@
+SIGNATURE=1650352334,16470
+SYSTEM_INCLUDES=cassert cmath iomanip iostream limits
+LIBS=
+C_MD5_SUM=8X7YmPAvHtdZVRbKc76Dxw
+INCLUDES=ADC.hh
+END=
